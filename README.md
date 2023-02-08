@@ -11,7 +11,7 @@ homework2:
 2. 选`mask_rcnn_r50_fpn_2x_coco_bbox_mAP-0.392__segm_mAP-0.354_20200505_003907-3e542a40.py`构建训练集，改变类别数量和名称，降低学习率
 3. 训练默认24轮，得到模型文件
 
-```json
+```
 2023-02-08 18:40:34,411 - mmdet - INFO - Evaluating segm...
 2023-02-08 18:40:34,434 - mmdet - INFO - 
  Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.793
